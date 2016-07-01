@@ -1,0 +1,14 @@
+.button {
+border-radius: 5px;
+background-color: white;
+border:1;
+border-style: solid;
+position: fixed;
+padding: 5px 10px 5px 10px;
+border-width: 1.2px;
+line-height: 5px; 
+border-color: #a5aab1;
+font-family: 'Lato', sans-serif;
+font-weight:300;
+text-align: center;
+}
