@@ -5,4 +5,5 @@ document.cookie = "username=sharedContent; sharedContent="+sharedContent+"; expi
 }
   function getUrl() {
 window.location.href= sharedURL;
+createCookie();
   }
